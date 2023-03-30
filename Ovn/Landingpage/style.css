@@ -27,6 +27,20 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/*Aside*/
+aside {
+  width: 25%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 15px;
+  margin-right: 5px;
+  margin-top: 20%;
+  float: right;
+  font-style: italic;
+  background-color: rgb(129, 196, 175);
+}
+
+
 /* Class: indhold_ovn */
 .indhold_ovn {
   display: flex;
